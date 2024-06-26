@@ -1,0 +1,13 @@
+{
+    "name": "Parris Coins Token",
+    "symbol": "PCT",
+    "description": "Este token fué creado para demostrar la amistad entre aquellos que la poseen. Creado por Lucas R.",
+    "image": "https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/metadata/imagen.png",
+    "attributes": [
+      {
+        "trait_type": "Purpose",
+        "value": "Friendship"
+      }
+    ]
+  }
+  
